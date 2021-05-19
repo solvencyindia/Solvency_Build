@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "./static/css/main.95816760.chunk.css",
+    "main.js": "./static/js/main.3cdff704.chunk.js",
+    "main.js.map": "./static/js/main.3cdff704.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.745ff7d6.js",
+    "runtime-main.js.map": "./static/js/runtime-main.745ff7d6.js.map",
+    "static/css/2.1a33fe6a.chunk.css": "./static/css/2.1a33fe6a.chunk.css",
+    "static/js/2.701aa69a.chunk.js": "./static/js/2.701aa69a.chunk.js",
+    "static/js/2.701aa69a.chunk.js.map": "./static/js/2.701aa69a.chunk.js.map",
+    "static/js/3.9601dbf4.chunk.js": "./static/js/3.9601dbf4.chunk.js",
+    "static/js/3.9601dbf4.chunk.js.map": "./static/js/3.9601dbf4.chunk.js.map",
+    "static/js/4.0049fa7b.chunk.js": "./static/js/4.0049fa7b.chunk.js",
+    "static/js/4.0049fa7b.chunk.js.map": "./static/js/4.0049fa7b.chunk.js.map",
+    "static/js/5.88f57a4e.chunk.js": "./static/js/5.88f57a4e.chunk.js",
+    "static/js/5.88f57a4e.chunk.js.map": "./static/js/5.88f57a4e.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.1a33fe6a.chunk.css.map": "./static/css/2.1a33fe6a.chunk.css.map",
+    "static/css/main.95816760.chunk.css.map": "./static/css/main.95816760.chunk.css.map",
+    "static/js/2.701aa69a.chunk.js.LICENSE.txt": "./static/js/2.701aa69a.chunk.js.LICENSE.txt",
+    "static/js/3.9601dbf4.chunk.js.LICENSE.txt": "./static/js/3.9601dbf4.chunk.js.LICENSE.txt",
+    "static/js/4.0049fa7b.chunk.js.LICENSE.txt": "./static/js/4.0049fa7b.chunk.js.LICENSE.txt",
+    "static/js/5.88f57a4e.chunk.js.LICENSE.txt": "./static/js/5.88f57a4e.chunk.js.LICENSE.txt",
+    "static/media/IT-HUB.f116f6f0.jpg": "./static/media/IT-HUB.f116f6f0.jpg",
+    "static/media/app.a9306b7c.svg": "./static/media/app.a9306b7c.svg",
+    "static/media/business.1802afa8.svg": "./static/media/business.1802afa8.svg",
+    "static/media/cloud.73129c36.svg": "./static/media/cloud.73129c36.svg",
+    "static/media/font-awesome.min.css": "./static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/getintouch.e199de65.jpg": "./static/media/getintouch.e199de65.jpg",
+    "static/media/infra_2.8e26870e.svg": "./static/media/infra_2.8e26870e.svg",
+    "static/media/software.efb9b8a0.svg": "./static/media/software.efb9b8a0.svg",
+    "static/media/usa.eeee3ad6.jpg": "./static/media/usa.eeee3ad6.jpg",
+    "static/media/web.f2f53b6c.svg": "./static/media/web.f2f53b6c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.745ff7d6.js",
+    "static/css/2.1a33fe6a.chunk.css",
+    "static/js/2.701aa69a.chunk.js",
+    "static/css/main.95816760.chunk.css",
+    "static/js/main.3cdff704.chunk.js"
+  ]
+}
