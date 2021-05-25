@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
-  "homepage": "https://solvency.herokuapp.com/", 
+  "homepage": "https://solvency.herokuapp.com/",
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js"
@@ -19,6 +19,7 @@
     "is-empty": "^1.2.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.12.7",
+    "mongoose-auto-increment": "^5.0.1",
     "passport": "^0.4.1",
     "passport-jwt": "^4.0.0",
     "validator": "^13.6.0"
